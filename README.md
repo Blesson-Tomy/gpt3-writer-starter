@@ -1,8 +1,5 @@
 # Technical Solution Generator
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
 
-# GPT3-Writer-Starter
 ### Hello 👋
 
 This is an AI project that was built using Buildspace's help. It uses ChatGPT's API to connect to an LLM and generate a response tailored to the prompt entered.
